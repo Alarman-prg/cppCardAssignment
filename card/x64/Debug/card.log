@@ -1,0 +1,5 @@
+﻿  card.cpp
+  main.cpp
+C:\Users\jepgp\OneDrive\Documents\03_339\cppCardAssignment\card\main.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  card.vcxproj -> C:\Users\jepgp\OneDrive\Documents\03_339\cppCardAssignment\card\x64\Debug\card.exe
